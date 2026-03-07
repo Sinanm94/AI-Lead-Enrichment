@@ -90,12 +90,12 @@ Generate the JSON for {name} now:"""
         # Parse JSON
         analysis = json.loads(ai_response)
         
-        print(f"  ✅ Score: {analysis.get('quality_score', 0)}/10")
+        print(f"✅ Score: {analysis.get('quality_score', 0)}/10")
         
         return analysis
     
     except Exception as e:
-        print(f"  ⚠️ Parse error: {e}")
+        print(f"⚠️ Parse error: {e}")
         
         # Return safe fallback
         return {
