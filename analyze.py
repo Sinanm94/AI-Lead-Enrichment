@@ -62,7 +62,7 @@ EXAMPLE OUTPUT FORMAT:
 
 Generate the JSON for {name} now:"""
 
-    print(f"� Analyzing: {name} ({area})...")
+    print(f"Analyzing: {name} ({area})...")
     
     ai_response = call_ollama(prompt)
     
@@ -114,7 +114,7 @@ def main():
     """
     
     print("=" * 60)
-    print("� AI LEAD ENRICHMENT SYSTEM")
+    print("AI LEAD ENRICHMENT SYSTEM")
     print("   Model: Llama 3.2 (Local via Ollama)")
     print("=" * 60)
     print()
@@ -125,7 +125,7 @@ def main():
         reader = csv.DictReader(f)
         leads = list(reader)
     
-    print(f"� Found {len(leads)} leads to analyze\n")
+    print(f"Found {len(leads)} leads to analyze\n")
     
     # Analyze each lead
     enriched_leads = []
@@ -160,7 +160,7 @@ def main():
     print()
     print("=" * 60)
     print(f"✅ Analysis complete!")
-    print(f"� Results saved to: {output_file}")
+    print(f"Results saved to: {output_file}")
     print()
     
     # Calculate stats
@@ -168,12 +168,12 @@ def main():
     avg_score = sum(float(l["ai_quality_score"]) for l in enriched_leads) / total
     high_quality = sum(1 for l in enriched_leads if float(l["ai_quality_score"]) >= 7)
     
-    print("� STATISTICS:")
+    print("STATISTICS:")
     print(f"   Total Analyzed: {total}")
     print(f"   Average Quality Score: {avg_score:.2f}/10")
     print(f"   High Quality Leads (≥7): {high_quality} ({high_quality/total*100:.0f}%)")
     print()
-    print("� Open dashboard.html in browser to view results!")
+    print("Open dashboard.html in browser to view results!")
     print("=" * 60)
 
 
