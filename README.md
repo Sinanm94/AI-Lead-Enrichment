@@ -12,13 +12,8 @@ Local LLM (Llama 3.2) for real estate lead intelligence
 - Python
 - HTML + Chart.js
 
-## Demo
-[Watch video](YOUR_LINK)
-
 ## Quick Start
 ```bash
 python3 analyze.py
 xdg-open dashboard.html
 ```
-
-Built in 12 hours for UK AI Engineer job application.
