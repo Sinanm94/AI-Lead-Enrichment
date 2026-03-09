@@ -38,30 +38,33 @@ Standard LLM implementations often force neural networks to perform basic arithm
 
 ### 1. Prerequisites
 Install Python 3.x and Ollama. Pull the required model:
-```bash
+'''bash
 ollama pull llama3.1
 
 ### 2. Environment Setup
 Clone the repository and initialize the virtual environment:
 
-'''bash
+```bash
 python -m venv venv
 # Windows: venv\Scripts\activate
 # Linux/Mac: source venv/bin/activate
 pip install requests
+```
 ### 3. Execution
 Place raw lead data in leads.csv, then initialize the enrichment engine:
 
-Bash
+```bash
 python analyze.py
+```
 ### 4. Dashboard Visualization
 Launch a local server to bypass browser CORS restrictions and view the UI:
 
-Bash
+```bash
 python -m http.server 8000
 Navigate to http://localhost:8000/dashboard.html in your web browser.
+```
+## Engineered for high-efficiency local inference and enterprise scalability.
 
-Engineered for high-efficiency local inference and enterprise scalability.
 
 
 
