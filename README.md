@@ -61,9 +61,12 @@ Launch a local server to bypass browser CORS restrictions and view the UI:
 
 ```bash
 python -m http.server 8000
-Navigate to http://localhost:8000/dashboard.html in your web browser.
 ```
+
+Navigate to http://localhost:8000/dashboard.html in your web browser.
+
 ## Engineered for high-efficiency local inference and enterprise scalability.
+
 
 
 
