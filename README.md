@@ -18,7 +18,12 @@ python3 analyze.py
 xdg-open dashboard.html
 ```
 ## Screenshots
-![1](https://github.com/user-attachments/assets/8b44bcaa-4141-420c-965a-ac6e117f01f7)
-![2](https://github.com/user-attachments/assets/519da884-7d5b-4a04-b18e-bad503375948)
-![3](https://github.com/user-attachments/assets/1c82993c-2938-4211-ba14-8a0622f852f2)
-![4](https://github.com/user-attachments/assets/fa70c69b-d455-48ba-a815-213797d41099)
+<img width="1901" height="922" alt="image" src="https://github.com/user-attachments/assets/4e825d27-4a02-46f4-9720-eac4fde6d05d" />
+
+<img width="1887" height="874" alt="image" src="https://github.com/user-attachments/assets/45ade4ef-6c79-4a1c-9a65-4ba08f359f39" />
+
+<img width="1888" height="906" alt="image" src="https://github.com/user-attachments/assets/7d60d8e1-bc10-4e88-9b62-2b19f18fb452" />
+
+<img width="1897" height="914" alt="image" src="https://github.com/user-attachments/assets/45ec3fd1-beb6-4427-b79e-cedae10a18fe" />
+
+
