@@ -6,11 +6,11 @@
     "Budget": "5000",
     "Property_Type": "Apartment",
     "ai_quality_score": 7.3,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Budget",
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Check nearby options, budget might be tight."
+    "ai_property_rec": "Apartment",
+    "ai_agent_notes": "Follow up with the lead to discuss Al Nasr apartment options within their budget."
   },
   {
     "Phone": "56746566",
@@ -18,12 +18,12 @@
     "Area": "Dubai Marina",
     "Budget": "8000",
     "Property_Type": "Apartment",
-    "ai_quality_score": 7.2,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
-    "ai_urgency": "Moderate",
-    "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Schedule viewing for a comprehensive assessment."
+    "ai_quality_score": 6.6,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Standard",
+    "ai_urgency": "Medium",
+    "ai_property_rec": "luxury apartment",
+    "ai_agent_notes": "Follow up with the lead to discuss their budget and recommend suitable luxury apartments in Dubai Marina within their price range."
   },
   {
     "Phone": "56746567",
@@ -31,12 +31,12 @@
     "Area": "JBR",
     "Budget": "12000",
     "Property_Type": "Penthouse",
-    "ai_quality_score": 6.3,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
+    "ai_quality_score": 7.0,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Luxury",
     "ai_urgency": "Medium",
     "ai_property_rec": "Penthouse",
-    "ai_agent_notes": "Schedule viewing to assess penthouse options"
+    "ai_agent_notes": "Follow up with the lead to discuss JBR penthouse options within their budget and highlight the premium lifestyle benefits."
   },
   {
     "Phone": "56746568",
@@ -44,12 +44,12 @@
     "Area": "Al Barsha",
     "Budget": "3500",
     "Property_Type": "Studio",
-    "ai_quality_score": 6.1,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Premium",
+    "ai_quality_score": 6.8,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Budget is high for this area. Consider nearby options."
+    "ai_property_rec": "studio apartment",
+    "ai_agent_notes": "Follow up with the lead to discuss available studio apartments in Al Barsha within their budget range."
   },
   {
     "Phone": "56746569",
@@ -57,12 +57,12 @@
     "Area": "Downtown",
     "Budget": "15000",
     "Property_Type": "2BR Apartment",
-    "ai_quality_score": 6.5,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
+    "ai_quality_score": 4.8,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
     "ai_property_rec": "2BR Apartment",
-    "ai_agent_notes": "Budget slightly below average. Consider exploring options."
+    "ai_agent_notes": "Follow up with the lead to understand their specific preferences and schedule a viewing for the 2BR Apartment in Downtown within the 15000 AED/month budget."
   },
   {
     "Phone": "56746570",
@@ -70,12 +70,12 @@
     "Area": "Business Bay",
     "Budget": "6000",
     "Property_Type": "1BR Apartment",
-    "ai_quality_score": 8.2,
-    "ai_area_tier": "High",
-    "ai_budget_segment": "Limited",
+    "ai_quality_score": 5.9,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
     "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Schedule viewing with caution. Budget is below market average."
+    "ai_agent_notes": "Follow up with the lead to understand their specific needs and schedule a viewing for the 1BR Apartment in Business Bay."
   },
   {
     "Phone": "56746571",
@@ -83,12 +83,12 @@
     "Area": "Palm Jumeirah",
     "Budget": "25000",
     "Property_Type": "Villa",
-    "ai_quality_score": 6.4,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
+    "ai_quality_score": 4.4,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Luxury",
     "ai_urgency": "Medium",
-    "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Budget for Palm Jumeirah is competitive. Consider exploring villa options."
+    "ai_property_rec": "Luxury villas",
+    "ai_agent_notes": "Follow up with the lead to discuss their specific villa preferences and budget constraints."
   },
   {
     "Phone": "56746572",
@@ -96,12 +96,12 @@
     "Area": "Al Quoz",
     "Budget": "4000",
     "Property_Type": "Studio",
-    "ai_quality_score": 7.2,
-    "ai_area_tier": "Affordable",
-    "ai_budget_segment": "Low",
+    "ai_quality_score": 8.1,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Budget is slightly below average. Schedule a meeting to discuss alternatives."
+    "ai_property_rec": "studio apartment",
+    "ai_agent_notes": "Follow up with the client to discuss available studio apartments in Al Quoz within their budget of 4000 AED/month."
   },
   {
     "Phone": "56746573",
@@ -109,12 +109,12 @@
     "Area": "Dubai Hills",
     "Budget": "9000",
     "Property_Type": "Townhouse",
-    "ai_quality_score": 7.2,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
+    "ai_quality_score": 4.1,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "1BR Townhouse",
-    "ai_agent_notes": "Budget is low for Dubai Hills. Consider exploring options in neighboring areas."
+    "ai_property_rec": "Townhouse",
+    "ai_agent_notes": "Follow up with the lead to discuss budget adjustments and alternative townhouse options within Dubai Hills that fit their 9000 AED monthly budget."
   },
   {
     "Phone": "56746574",
@@ -122,12 +122,12 @@
     "Area": "Arabian Ranches",
     "Budget": "7000",
     "Property_Type": "Villa",
-    "ai_quality_score": 7.4,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
-    "ai_urgency": "Medium",
-    "ai_property_rec": "2BR Apartment",
-    "ai_agent_notes": "Budget may be too low for best options in Arabian Ranches. Investigate further."
+    "ai_quality_score": 3.3,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Budget",
+    "ai_urgency": "Low",
+    "ai_property_rec": "Villa",
+    "ai_agent_notes": "Suggest alternative villa options within the 7000 AED/month budget in Arabian Ranches, emphasizing value for money."
   },
   {
     "Phone": "56746575",
@@ -135,12 +135,12 @@
     "Area": "Jumeirah",
     "Budget": "11000",
     "Property_Type": "Apartment",
-    "ai_quality_score": 8.7,
+    "ai_quality_score": 7.6,
     "ai_area_tier": "Premium",
-    "ai_budget_segment": "Mid",
-    "ai_urgency": "High",
-    "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Strong budget. Schedule viewing immediately."
+    "ai_budget_segment": "Standard",
+    "ai_urgency": "Medium",
+    "ai_property_rec": "Apartment",
+    "ai_agent_notes": "Follow up with the lead to discuss Jumeirah apartments within their budget of 11000 AED/month and explore available options."
   },
   {
     "Phone": "56746576",
@@ -148,12 +148,12 @@
     "Area": "Deira",
     "Budget": "3000",
     "Property_Type": "Studio",
-    "ai_quality_score": 6.2,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Limited",
-    "ai_urgency": "Low",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Low budget for Deira. Prioritize nearby options."
+    "ai_quality_score": 7.6,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
+    "ai_urgency": "Medium",
+    "ai_property_rec": "Studio",
+    "ai_agent_notes": "Follow up with the lead to discuss available studios in Deira within their budget of 3000 AED/month."
   },
   {
     "Phone": "56746577",
@@ -161,12 +161,12 @@
     "Area": "Bur Dubai",
     "Budget": "4500",
     "Property_Type": "1BR Apartment",
-    "ai_quality_score": 8.9,
-    "ai_area_tier": "Premium",
-    "ai_budget_segment": "Mid",
-    "ai_urgency": "High",
+    "ai_quality_score": 7.3,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
+    "ai_urgency": "Medium",
     "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Schedule viewing for 1BR in Bur Dubai immediately."
+    "ai_agent_notes": "Follow up with the lead to discuss available 1BR apartments in Bur Dubai within their budget range."
   },
   {
     "Phone": "56746578",
@@ -174,12 +174,12 @@
     "Area": "Mirdif",
     "Budget": "5500",
     "Property_Type": "2BR Apartment",
-    "ai_quality_score": 7.2,
-    "ai_area_tier": "Affordable",
-    "ai_budget_segment": "Limited",
-    "ai_urgency": "Low",
-    "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Budget is lower than the average in Mirdif. Schedule viewing when possible."
+    "ai_quality_score": 6.9,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
+    "ai_urgency": "Medium",
+    "ai_property_rec": "2BR Apartment",
+    "ai_agent_notes": "Follow up with the lead to discuss Mirdif 2BR apartments within their budget and highlight quality options."
   },
   {
     "Phone": "56746579",
@@ -187,12 +187,12 @@
     "Area": "Motor City",
     "Budget": "4200",
     "Property_Type": "Studio",
-    "ai_quality_score": 8.4,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Limited",
+    "ai_quality_score": 7.3,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Budget too small. Review budget to ensure affordability."
+    "ai_property_rec": "Studio",
+    "ai_agent_notes": "Follow up with the lead to discuss Motor City studio options within their budget."
   },
   {
     "Phone": "56746580",
@@ -200,12 +200,12 @@
     "Area": "Discovery Gardens",
     "Budget": "3800",
     "Property_Type": "Studio",
-    "ai_quality_score": 6.8,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Mid",
+    "ai_quality_score": 7.3,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Check nearby options with budget 3800 AED"
+    "ai_property_rec": "Studio",
+    "ai_agent_notes": "Follow up with the lead to discuss available studios in Discovery Gardens within their budget range."
   },
   {
     "Phone": "56746581",
@@ -213,12 +213,12 @@
     "Area": "Greens",
     "Budget": "7500",
     "Property_Type": "1BR Apartment",
-    "ai_quality_score": 6.5,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Low",
+    "ai_quality_score": 7.3,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
     "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Budget is too small. Recommend exploring properties in adjacent areas."
+    "ai_agent_notes": "Follow up with the lead to discuss available 1BR Apartments in Greens within their budget range."
   },
   {
     "Phone": "56746582",
@@ -226,12 +226,12 @@
     "Area": "Burj Khalifa",
     "Budget": "30000",
     "Property_Type": "Luxury Penthouse",
-    "ai_quality_score": 7.3,
-    "ai_area_tier": "Mid-Tier",
-    "ai_budget_segment": "Lower",
-    "ai_urgency": "Medium",
-    "ai_property_rec": "2BR Apartment",
-    "ai_agent_notes": "Strong budget. Schedule viewing within a week."
+    "ai_quality_score": 3.1,
+    "ai_area_tier": "Premium",
+    "ai_budget_segment": "Luxury",
+    "ai_urgency": "High",
+    "ai_property_rec": "Luxury Penthouse",
+    "ai_agent_notes": "Highlight exclusive Burj Khalifa penthouse options matching their luxury budget and schedule a meeting to discuss premium properties."
   },
   {
     "Phone": "56746583",
@@ -239,12 +239,12 @@
     "Area": "Karama",
     "Budget": "2800",
     "Property_Type": "Studio",
-    "ai_quality_score": 8.4,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Budget",
+    "ai_quality_score": 7.4,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
-    "ai_property_rec": "Studio Apartment",
-    "ai_agent_notes": "Budget is slightly below Karama average. Consider upgrading to a 1BR."
+    "ai_property_rec": "Studio",
+    "ai_agent_notes": "Follow up with the lead to discuss available studios in Karama within their budget range."
   },
   {
     "Phone": "56746584",
@@ -252,11 +252,11 @@
     "Area": "Silicon Oasis",
     "Budget": "4800",
     "Property_Type": "1BR Apartment",
-    "ai_quality_score": 7.9,
-    "ai_area_tier": "Mid",
-    "ai_budget_segment": "Budget",
+    "ai_quality_score": 6.5,
+    "ai_area_tier": "Mid-Range",
+    "ai_budget_segment": "Standard",
     "ai_urgency": "Medium",
     "ai_property_rec": "1BR Apartment",
-    "ai_agent_notes": "Budget is slightly below market value. Schedule viewing to discuss potential"
+    "ai_agent_notes": "Follow up with the lead to discuss available 1BR apartments in Silicon Oasis within their budget range."
   }
 ]
